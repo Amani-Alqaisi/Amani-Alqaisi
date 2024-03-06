@@ -14,7 +14,7 @@
 
 ### 🛠  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,eclipse,github,stackoverflow,matlab,vscode,git,canva,js,html,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,eclipse,github,stackoverflow,matlab,vscode,git,js,html,)](https://skillicons.dev)
 
 <!--
 **Amani-Alqaisi/Amani-Alqaisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
