@@ -5,7 +5,8 @@
 - 🎓 I'm studying Computer Science at Grinnell College
 - 🔭 I'm currently a Project Manager, Back End Developer & Designer for [B4UAgree](https://github.com/Amani-Alqaisi/B4UAgree)
 - 💎 I love to customize everything
-- 💬 Ask me about anything I'm happy to help :) 
+- 💬 Ask me about anything I'm happy to help :)
+- 📝 Check out [My Resume](https://drive.google.com/file/d/19WTazuAYecPbW_ZsJbVaeMyHZ5gkQdI0/view?usp=sharing)
 - 🪐 Looking forward to finishing my Website 👀 ... stay tuned!
 - 📫 You can reach me with the links below
   
@@ -14,7 +15,7 @@
 
 ### 🛠  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,eclipse,github,stackoverflow,matlab,vscode,git,js,html,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,eclipse,github,stackoverflow,matlab,vscode,git,js,html,ros)](https://skillicons.dev)
 
 <!--
 **Amani-Alqaisi/Amani-Alqaisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
