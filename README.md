@@ -2,7 +2,7 @@
 
 ### 🧕🏻 I'm Amani, a bit about myself 
 
-- 🎓 I'm studying Computer Science at Grinnell College
+- 🎓 A Computer Science student and Social Justice Activist at Grinnell College
 - 🔭 I'm currently a Project Manager, Back End Developer & Designer for [B4UAgree](https://github.com/Amani-Alqaisi/B4UAgree)
 - 💎 I love to customize everything
 - 💬 Ask me about anything I'm happy to help :)
