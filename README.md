@@ -8,7 +8,7 @@
 - 🔭 Recent Project: Project Manager, Back End Developer & Designer for [B4UAgree](https://github.com/Amani-Alqaisi/B4UAgree)
 - 💎 I love to customize everything
 - 💬 Ask me about 3-2 Engineering, AI, Robotics, or anything I'm happy to help :)
-- 📝 Check out [My Resume](https://drive.google.com/file/d/19WTazuAYecPbW_ZsJbVaeMyHZ5gkQdI0/view?usp=sharing)
+- 📝 Check out [My Resume](https://drive.google.com/file/d/1AvPugUhFFgkSKcxaJnd7fej9avTIp39Y/view?usp=sharing) Updated 6/25/2024
 - 🪐 Looking forward to finishing my Website 👀 ... stay tuned!
 - 📫 You can reach me with the links below
   
