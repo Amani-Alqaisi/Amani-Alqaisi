@@ -8,7 +8,6 @@
 - 💎 I love to customize everything
 - 💬 Ask me about 3-2 Engineering, AI, Robotics, or anything I'm happy to help :)
 - 📝 Check out [My Resume](https://drive.google.com/file/d/1AvPugUhFFgkSKcxaJnd7fej9avTIp39Y/view?usp=sharing) Updated 6/25/2024
-- 🪐 Looking forward to finishing my Website 👀 ... stay tuned!
 - 📫 You can reach me with the links below
   
   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanialqaisi7@gmail.com)
